@@ -171,4 +171,5 @@ Kontribusi sangat terbuka untuk:
 
 **Nama:** Muhammad Riyan Maulana
 **Project:** Penelitian Analisis Sentimen
+**Collab Link:** https://colab.research.google.com/drive/1DW6J849_xbPCcWhCQX2NECxiixEiBvzK?usp=sharing
 
